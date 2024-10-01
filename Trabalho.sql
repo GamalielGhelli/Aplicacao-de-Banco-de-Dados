@@ -38,18 +38,18 @@ constraint FK_loja_estoque foreign key (loja_estoque) references Loja(numero_loj
 constraint FK_codigo_produto foreign key (codigo_produto) references Produto(codigo_produto)
 );
 
-create table Venda(
-numero_nota_fiscal int,
-loja char(5),
-data_venda date check (data_venda >= '2024-01-02'),
-codigo_produto char(10),
-nome_produto varchar(100),
-quantidade int,
-valor_unitario decimal(10,2),
-total_a_pagar decimal(10,2) generated always as (quantidade * valor_unitario) stored,
-
-constraint PK_Venda primary key (numero_nota_fiscal, loja, data_venda, codigo_produto),
-constraint FK_Venda foreign key (loja) references Loja(numero_loja),
-constraint FK_Venda foreign key (codigo_produto) references Produto(codigo_produto)
+create table Venda (
+    numero_nota_fiscal int,
+    loja char(5),
+    data_venda date check (data_venda >= '2024-01-02'),
+    codigo_produto char(10),
+    nome_produto varchar(100),
+    quantidade int,
+    valor_unitario decimal(10,2),
+    total_a_pagar decimal(10,2) generated always as (quantidade * valor_unitario) stored,
+    constraint pk_venda primary key (numero_nota_fiscal, loja, data_venda, codigo_produto),
+    constraint fk_loja foreign key (loja) references Loja(numero_loja),
+    constraint fk_produto foreign key (codigo_produto) references Produto(codigo_produto)
 );
+
 
