@@ -1,11 +1,11 @@
 Numero_Loja,Endereco,Cidade,Estado
-001,SQS 409, bloco B, Loja 1, Asa Sul,Brasília,DF
-002,Estrada do Contorno, 413,Belo Horizonte,MG
-003,Rod. BR-153, Km 501,Goiânia,GO
-004,Rua dos Oitis, 290,Rio de Janeiro,RJ
-005,Estrada Parque Núcleo Bandeirante,Brasília,DF
-006,Av. Afonso Pena, 1000,Belo Horizonte,MG
-007,Rua das Laranjeiras, 250,Rio de Janeiro,RJ
-008,Rua Goiás, 400,Goiânia,GO
-009,Rua Alvorada, 300,Brasília,DF
-010,Avenida Amazonas, 1500,Belo Horizonte,MGE
+001,"SQS 409, bloco B, Loja 1, Asa Sul",Brasília,DF
+002,"Estrada do Contorno, 413",Belo Horizonte,MG
+003,"Rod BR-153, Km 501",Goiânia,GO
+004,"Rua dos Oitis, 290",Rio de Janeiro,RJ
+005,"Estrada Parque Núcleo Bandeirante",Brasília,DF
+006,"AV Afonso Pena, 1000",Belo Horizonte,MG
+007,"Rua das Laranjeiras, 250",Rio de Janeiro,RJ
+008,"Rua Goiás, 400",Goiânia,GO
+009,"Rua Alvorada, 300",Brasília,DF
+010,"Avenida Amazonas, 1500",Belo Horizonte,MG
