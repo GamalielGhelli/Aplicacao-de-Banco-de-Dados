@@ -1,0 +1,11 @@
+Numero_Nota_Fiscal,Loja,Data_Venda,Codigo_Produto,Nome_Produto,Quantidade,Valor_Unitario
+001,001,2024-09-15,001.413,Batata inglesa,5,3.50
+002,002,2024-09-15,001.417,Feijão preto,3,7.50
+003,003,2024-09-16,001.801,Arroz branco,10,5.90
+004,004,2024-09-16,001.905,Macarrão instantâneo,4,2.30
+005,005,2024-09-17,002.123,Açúcar refinado,6,3.20
+006,006,2024-09-17,002.789,Leite em pó,2,15.50
+007,007,2024-09-18,003.213,Farinha de trigo,8,4.80
+008,008,2024-09-18,004.987,Café torrado e moído,3,8.90
+009,009,2024-09-19,001.621,Óleo de soja Lisa,5,12.67
+010,010,2024-09-19,001.417,Feijão preto,7,7.80
