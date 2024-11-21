@@ -13,4 +13,4 @@ Para esta atividade ele definiu os seguintes requisitos:
    
     iii- restrições de Check
 
-3- Incluir pelo menos 10 linhas com Dados, ai ele pediu a criação de um arquivo .csv(UTF-8).
+3- Incluir pelo menos 10 linhas com Dados, além disto pediu a criação de um arquivo .csv(UTF-8).
