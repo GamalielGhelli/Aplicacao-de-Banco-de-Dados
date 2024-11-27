@@ -1,4 +1,4 @@
-# Aplicação de Banco de Dados
+# Aplicação de Banco de Dados para um Super Mercado
  Meu profressor de BD (Banco de Dados) pediu para fazer a criação de uma aplicação para um supermercado
 
 Para esta atividade ele definiu os seguintes requisitos:
